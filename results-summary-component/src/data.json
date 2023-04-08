@@ -2,28 +2,28 @@
   {
     "category": "Reaction",
     "score": 80,
-    "icon": "./Results-Summary-Component/images/icon-reaction.svg",
+    "icon": "../../Results-Summary-Component/images/icon-reaction.svg",
     "color" : "red",
     "bg-color" : "#faf6f6"
   },
   {
     "category": "Memory",
     "score": 92,
-    "icon": "./Results-Summary-Component/images/icon-memory.svg",
+    "icon": "../../Results-Summary-Component/images/icon-memory.svg",
     "color" : "rgb(236, 176, 86)",
     "bg-color" : "rgb(255, 253, 230)"
   },
   {
     "category": "Verbal",
     "score": 61,
-    "icon": "./Results-Summary-Component/images/icon-verbal.svg",
+    "icon": "../../Results-Summary-Component/images/icon-verbal.svg",
     "color" : "green",
     "bg-color" : "rgb(230, 240, 240)"
   },
   {
     "category": "Visual",
     "score": 72,
-    "icon": "./Results-Summary-Component/images/icon-visual.svg",
+    "icon": "../../Results-Summary-Component/images/icon-visual.svg",
     "color" : "darkblue",
     "bg-color" : "rgb(231, 231, 252)"
   }
